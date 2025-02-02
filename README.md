@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Chris C. Karp. Backend dev.
+- 👋 Hi, I’m Chris C. Karp
 - 👀 I’m interested in learning more programming lang.
 - 🌱 I’m currently learning Assembly, HTML, CSS, etc
-- 💞️ I’m looking to collaborate on Open Source
 - 😄 Pronouns: they/them
