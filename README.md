@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris C. Karp, ssenior Java dev
+- 👋 Hi, I’m Chris C. Karp, senior Java dev
 - 👀 I’m interested in learning more programming lang.
 - 🌱 I’m currently learning Frontend
 - 😄 Pronouns: they/them
